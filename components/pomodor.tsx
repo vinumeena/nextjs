@@ -6,7 +6,7 @@ import { Label } from "@/components/ui/label"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 
-export function pomodor() {
+export function Pomodor() {
   return (
     <div className="flex flex-col items-center space-y-8">
       <div className="relative w-36 h-36 rounded-full border-4 border-gray-200 dark:border-gray-800">
